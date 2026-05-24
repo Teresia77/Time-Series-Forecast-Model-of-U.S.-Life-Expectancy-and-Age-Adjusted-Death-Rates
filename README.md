@@ -168,3 +168,6 @@ This analysis supports long-term planning in:
 - Extend to subgroup-level forecasting (age, gender, race)
 - Explore machine learning and deep learning models
 - Integrate real-time updating forecasting systems
+
+## Author
+Teresia Wainaina
